@@ -46,8 +46,8 @@
 <br/>
 
 <a href="https://github.com/akh-04">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akh-04&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akh-04&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akh-04&theme=buefy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akh-04&theme=buefy" />
 </a>
 
 <br/>
