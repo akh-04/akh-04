@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👀  I’m interested in Data Science and Engineering Techniques
+- 👀 &nbsp; I’m interested in Data Science and Engineering Techniques
 - 🤔 &nbsp; Bringing Machines closer to Mankind.
 - 🎓 &nbsp; Studying Information Systems at Northeastern University.
 - 💼 &nbsp; Worked as a Sr. Data Analyst at Tiger Analytics, Chennai.
