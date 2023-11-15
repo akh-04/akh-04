@@ -6,7 +6,7 @@
 - 👀 &nbsp; I’m interested in Data Science and Engineering Techniques
 - 🤔 &nbsp; Bringing Machines closer to Mankind.
 - 🎓 &nbsp; Studying Information Systems at Northeastern University.
-- 💼 &nbsp; Worked as a Sr. Data Analyst at Tiger Analytics, Chennai.
+- 💼 &nbsp; Worked as a Summer Associate at Navy Federal Credit Union, Virginia and as a Sr. Data Analyst at Tiger Analytics, Chennai.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning and Deep Learning.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
